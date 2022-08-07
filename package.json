@@ -1,0 +1,24 @@
+{
+  "name": "jterrazz.com",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "start:dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "next": "12.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@jterrazz/eslint-config-common": "^1.4.1",
+    "@types/node": "18.6.4",
+    "@types/react": "18.0.15",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.21.0",
+    "typescript": "4.7.4"
+  }
+}
